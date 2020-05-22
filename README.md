@@ -7,6 +7,7 @@ A fish market platform built with React.
 ## Technologies
 * ReactJS
 * FireBase
+*
 
 ## Inspiration
 Project based on https://wesbos.com/
