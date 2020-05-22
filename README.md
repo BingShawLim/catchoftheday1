@@ -2,7 +2,7 @@
 A fish market platform built with React.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./catchotday.JPG)
 
 ## Technologies
 * ReactJS
