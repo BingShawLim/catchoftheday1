@@ -9,7 +9,7 @@ const Header = props =>(
                     <span className="the">The</span>
                 </span>
                 
-                Day</h1>
+                Day 2020</h1>
                 <h3 className="tagline">
                     <span>{props.tagline}</span>
                 </h3>
